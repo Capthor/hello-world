@@ -1,7 +1,7 @@
 # hello-world
 How does that work?
 
-Well thats somehting we gonna find out...
+Well thats something we gonna find out...
 in the process..
 or..
 
